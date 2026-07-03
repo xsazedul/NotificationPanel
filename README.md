@@ -1,47 +1,49 @@
-# NotificationPanel
-Notification Panel with Admin Dashboard (PHP)
+# PHP Notification Panel with Admin Dashboard
 
-A modern, mobile-friendly Notification Panel built with PHP, featuring a clean blue and white UI. Administrators can manage notifications directly from the admin dashboard without editing any code.
+A modern, responsive Notification Panel built with PHP and MySQL. Manage website notifications from an easy-to-use admin dashboard without editing any code. The system features a clean blue and white interface, mobile-friendly design, and one-click enable/disable functionality.
 
-Features
-📢 Real-time notification panel
-🎛️ Admin dashboard to manage notifications
-✅ Enable / Disable notifications with a single click
-📱 Fully responsive and mobile-friendly design
-🎨 Modern blue and white user interface
-✏️ Create, edit, and delete notifications
-📅 Optional start and end date scheduling
-📌 Display important announcements prominently
-🔄 Instant updates without modifying source files
-🔒 Secure admin authentication
-💾 MySQL database integration
-⚡ Lightweight and easy to integrate into existing PHP projects
-🧩 Clean, organized, and well-documented code
-Admin Controls
+## ✨ Features
 
-The admin panel allows you to:
+- 📢 Website notification panel
+- 🎛️ Admin dashboard
+- ✅ One-click Enable/Disable notifications
+- ✏️ Create, edit, and delete notifications
+- 📱 Fully responsive and mobile-friendly
+- 🎨 Modern blue & white UI
+- 🔒 Secure admin login
+- 💾 MySQL database support
+- ⚡ Lightweight and easy to integrate
+- 🧩 Clean and well-organized PHP code
 
-Add new notifications
-Edit existing notifications
-Delete notifications
-Enable or disable the notification system
-Control notification visibility
-Manage notification priority (optional)
-Configure display settings
-Technology Stack
-PHP
-MySQL
-HTML5
-CSS3
-JavaScript
-Bootstrap (Mobile Responsive)
-Design
-Modern blue and white theme
-Responsive layout for desktop, tablet, and mobile
-Clean and user-friendly interface
-Installation
-Upload the project to your PHP server.
-Import the SQL database.
-Configure the database connection.
-Log in to the admin panel.
-Start managing notifications instantly.
+## 📂 Technologies
+
+- PHP
+- MySQL
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+## 🚀 Installation
+
+1. Clone or download this repository.
+2. Import the provided SQL database.
+3. Configure your database connection.
+4. Upload the project to your PHP server.
+5. Log in to the admin panel and start managing notifications.
+
+## 📸 Screenshots
+
+Add screenshots here.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 🤝 Contributing
+
+Pull requests are welcome. Feel free to open an issue to report bugs or suggest new features.
+
+## ⭐ Support
+
+If you find this project useful, please consider giving it a ⭐ on GitHub.
