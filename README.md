@@ -34,7 +34,7 @@ A modern, responsive Notification Panel built with PHP and MySQL. Manage website
 
 ## 📸 Screenshots
 
-Add screenshots here.
+..........
 
 ## 📄 License
 
